@@ -5,6 +5,10 @@ PoC for SonicWall SMA 100 PreAuth RCE Chain (CVE-2023-44221, CVE-2024-38475)
 See our [blog post](https://labs.watchtowr.com/) for technical details
 
 
+https://github.com/user-attachments/assets/b157b39c-d7bd-4385-af7a-e465f8fd4a41
+
+
+
 # PoC in Action
 
 
